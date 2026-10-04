@@ -1,0 +1,21 @@
+.DS_Store
+# dataset and model weights must not be committed (see README.md)
+*.zip
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+data/
+images/
+checkpoints/
+__pycache__/
+.ipynb_checkpoints/
+runs/
+eval_out/
+.idea
+predictions/
+runs_multi_logs/
+trained_models/
+starters/
+data/images
+tensorboard/
